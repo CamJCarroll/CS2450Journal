@@ -10,3 +10,9 @@ Project managers may be annoying, but we can avoid them annoying us by being mor
 DevOps exists because deployment time has significantly decreased. Emergency room doctors.
 When using pip install, using the --break-system-packages is sometimes needed. This flag is to skip over protection, since some installations can break the python installation or the OS.
 
+Date: 9/10/25
+Two important things for Software Engineers:
+- Someone who understands and can communicate the requirements (Take initiative if its no one)
+- Smart people who can build stuff
+Possibly build a login system with a database attached? (school vm website?)
+
