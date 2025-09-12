@@ -16,3 +16,6 @@ Two important things for Software Engineers:
 - Smart people who can build stuff
 Possibly build a login system with a database attached? (school vm website?)
 
+Date: 9/12/25
+Users Stories: As a ... I want ... so that ... .
+A burndown chart with a scoring system is used to measure progress. Points are from the fibonacci sequence to be arbitrary.
