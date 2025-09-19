@@ -19,3 +19,18 @@ Possibly build a login system with a database attached? (school vm website?)
 Date: 9/12/25
 Users Stories: As a ... I want ... so that ... .
 A burndown chart with a scoring system is used to measure progress. Points are from the fibonacci sequence to be arbitrary.
+
+Date: 9/19/25
+Pictures/diagrams can be used for both high level and low level people and are effective for both.
+Algorithms follow along a design pattern.
+For Flow diagrams: (for steps)
+    Circles indicate start and stops.
+    Round boxes indicate a process.
+    Diamonds indicate decisions with yes or no output paths.
+    "columned" boxes are for a complex process or external dependency.
+For Component diagrams: (for relationships)
+    Rectangles for major building blocks.
+    Arrows to indicate what initiates system interaction.
+Don't mix flow and components.
+Unified Modeling Language (UML) is a standard language for building diagrams.
+C4 diagrams are the latest form of diagrams commonly used right now.
