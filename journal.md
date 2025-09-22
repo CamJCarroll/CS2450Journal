@@ -34,3 +34,13 @@ For Component diagrams: (for relationships)
 Don't mix flow and components.
 Unified Modeling Language (UML) is a standard language for building diagrams.
 C4 diagrams are the latest form of diagrams commonly used right now.
+
+Date: 9/22/25
+Pitch Presentation is to show stakeholders the preperation that has been done.
+For class, the general message that needs to come across is "I have done my homework".
+Start working on the bootstrap and .css/styling early. Previous students found it hardest to do.
+We start coding now.
+Our audience is a technical one. Cost and time estimations don't matter in this environment.
+Focus on Audience, Goals, and Principles for Presentations.
+7 +- 2 objects per page.
+Show something twice to really make audience remember.
