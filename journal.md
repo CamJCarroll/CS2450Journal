@@ -32,14 +32,19 @@ Date: 9/19/25
 
 Pictures/diagrams can be used for both high level and low level people and are effective for both.
 Algorithms follow along a design pattern.
+
 For Flow diagrams: (for steps)
+
     - Circles indicate start and stops.
     - Round boxes indicate a process.
     - Diamonds indicate decisions with yes or no output paths.
     - "columned" boxes are for a complex process or external dependency.
-    For Component diagrams: (for relationships)
+
+For Component diagrams: (for relationships)
+
     - Rectangles for major building blocks.
     - Arrows to indicate what initiates system interaction.
+
 Don't mix flow and components.
 Unified Modeling Language (UML) is a standard language for building diagrams.
 C4 diagrams are the latest form of diagrams commonly used right now.
@@ -61,11 +66,13 @@ Date: 9/29/25
 
 Review of component diagram needed. (friday)
 Ideas from presentations:
-SAHW - Plundr: User Profiles, Forums, general chat/tavern, group/crew chats.
-DEECS (us) - MySpy: How will users hear about MySpy? Group chats/forums.
-DOOF - Inator-inator: Evil, chatbot?, Follow from group chats.
-Other: Default private posts (only friends), option to make public posts.
+
+- SAHW - Plundr: User Profiles, Forums, general chat/tavern, group/crew chats.
+- DEECS (us) - MySpy: How will users hear about MySpy? Group chats/forums.
+- DOOF - Inator-inator: Evil, chatbot?, Follow from group chats.
+- Other: Default private posts (only friends), option to make public posts.
 
 
 Date: ?/??/25
-404:
+
+- 404:
