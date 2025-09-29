@@ -44,3 +44,14 @@ Our audience is a technical one. Cost and time estimations don't matter in this 
 Focus on Audience, Goals, and Principles for Presentations.
 7 +- 2 objects per page.
 Show something twice to really make audience remember.
+
+Date: 9/29/25
+Review of component diagram needed. (friday)
+Ideas from presentations:
+SAHW - Plundr: User Profiles, Forums, general chat/tavern, group/crew chats.
+DEECS (us) - MySpy: How will users hear about MySpy? Group chats/forums.
+DOOF - Inator-inator: Evil, chatbot?, Follow from group chats.
+Other: Default private posts (only friends), option to make public posts.
+
+Date: ?/??/25
+404:
