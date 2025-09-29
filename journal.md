@@ -37,7 +37,7 @@ For Flow diagrams: (for steps)
     - Round boxes indicate a process.
     - Diamonds indicate decisions with yes or no output paths.
     - "columned" boxes are for a complex process or external dependency.
-For Component diagrams: (for relationships)
+    For Component diagrams: (for relationships)
     - Rectangles for major building blocks.
     - Arrows to indicate what initiates system interaction.
 Don't mix flow and components.
