@@ -73,6 +73,18 @@ Ideas from presentations:
 - Other: Default private posts (only friends), option to make public posts.
 
 
-Date: ?/??/25
+Date: 10/3/25
 
-- 404:
+Ideas from presentations Wednesday:
+Flask login, Jinja template to full funamic content, Flask route (messaging)
+
+Gannt charts are a way to measure progress on a project using a bar graph to predict how long each task will take and to determine dependencies.
+Gannt charts are often done poorly, and its till hard to predict progress done with each task and when itll get done.
+Kanban Board (seeing board) is a method of writing out tasks on a board and marking them if they are todo, in progress, or done.
+Kanban lets engineers pick what to code, not a project manager. Lets managers see what is done and in progress.
+In big companies, if engineers use kanban, it is likely someone is still using a gannt chart.
+
+Stakeholders: Users, engineers, management, investors, support, sales, designers, etc 
+each stakeholder has a different definition of done. Agree with stakeholders on what "done" is.
+
+Use kanban board for the rest of the semester.
