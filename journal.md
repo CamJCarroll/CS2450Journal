@@ -88,3 +88,13 @@ Stakeholders: Users, engineers, management, investors, support, sales, designers
 each stakeholder has a different definition of done. Agree with stakeholders on what "done" is.
 
 Use kanban board for the rest of the semester.
+
+Date: 10/6/25
+
+Most companies have people who know how to do the technical skills, but struggle with communication in those teams.
+
+Agile Manifesto: (Made by people who made the agile process. List of "bright minds" in software development.) A basis of thinking for making good software.
+
+Companies that can repspond to change stuck around, companies that stuck to the plan crashed and burned.
+
+Date : 10/?/25
