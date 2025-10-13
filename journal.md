@@ -89,6 +89,7 @@ each stakeholder has a different definition of done. Agree with stakeholders on 
 
 Use kanban board for the rest of the semester.
 
+
 Date: 10/6/25
 
 Most companies have people who know how to do the technical skills, but struggle with communication in those teams.
@@ -97,4 +98,13 @@ Agile Manifesto: (Made by people who made the agile process. List of "bright min
 
 Companies that can repspond to change stuck around, companies that stuck to the plan crashed and burned.
 
-Date : 10/?/25
+
+Date : 10/13/25
+
+Programs sometimes are responsible for ethical decisions. What we program can also have ethical implications.
+Computers aren't good at nuance, even with AI. Humans have to make decisions ahead of time what is a reasonable reaction.
+
+Trolley problem: Pulling the lever is more ethical than pushing someone onto the track when both actions stop the trolley. To a computer, its hard to differentiate the two when the outcome is the same.
+
+
+Date : 10/15/25
