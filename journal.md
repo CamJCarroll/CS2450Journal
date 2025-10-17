@@ -107,4 +107,14 @@ Computers aren't good at nuance, even with AI. Humans have to make decisions ahe
 Trolley problem: Pulling the lever is more ethical than pushing someone onto the track when both actions stop the trolley. To a computer, its hard to differentiate the two when the outcome is the same.
 
 
-Date : 10/15/25
+Date : 10/17/25
+
+Can AI or a program understand ethics, or is it picking something that has a predetermined higher value than another thing?
+
+Intent vs. Consequence: Is social media, that meant to connect people for good, an ethical concern for employees if it actually hurts its users?
+
+Exploitation vs. Entertainment: Does a gambling machine exploit addiction, or is it a form of entertainment?
+
+Personal vs. Professional Ethics: Can you or is it ethical to take a job where you disagree with the companies mission? Can you compartmentalize your personal ethics? Should you?
+
+How much personal responsibility do you give to yourself and your users?
