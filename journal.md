@@ -118,3 +118,12 @@ Exploitation vs. Entertainment: Does a gambling machine exploit addiction, or is
 Personal vs. Professional Ethics: Can you or is it ethical to take a job where you disagree with the companies mission? Can you compartmentalize your personal ethics? Should you?
 
 How much personal responsibility do you give to yourself and your users?
+
+
+Date : 10/20/25
+
+Now moving onto the validation phase.
+
+Software Quality does what it says, is easy to use, secure, predictible, and persistant.
+Improve quality by testing, planning, building architecture, and focusing on subsystems.
+
