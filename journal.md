@@ -127,3 +127,9 @@ Now moving onto the validation phase.
 Software Quality does what it says, is easy to use, secure, predictible, and persistant.
 Improve quality by testing, planning, building architecture, and focusing on subsystems.
 
+1. Quality is built in the ground up and is the foremost responsibility of the developer.
+2. To 'ensure' quality a solid regiment of rigorous testing must occur.
+3. You're never going to be 100% positive.
+
+
+Date : 10/??/25
