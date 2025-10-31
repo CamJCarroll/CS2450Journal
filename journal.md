@@ -132,4 +132,27 @@ Improve quality by testing, planning, building architecture, and focusing on sub
 3. You're never going to be 100% positive.
 
 
-Date : 10/??/25
+Date : 10/27/25
+
+Should be able to manage users and logins, make persistant posts, identified extra libraries/dependencies, have POC code, and have an understanding of the css.
+
+About four weeks left of the project. Grade isn't on the completion of the project, but on the presentation of our process of going through software engineering. Contents of the backlog and project artifacts will be graded.
+
+Refactoring benefits are maintainability, re-usability, performance, and cost reduction. Helps with not writing the same code multiple times.
+
+Technical debt is a term that buisness people can better understand for refactoring.
+
+
+Date : 11/31/25
+
+Burndown charts, kanban boards, github issues, and iterations are used in regular buisnesses. What we are actually doing is what software engineers actually do.
+
+In industry, your work is a dependency for a lot of other peoples work. Hundreds of people work on one thing.
+
+Some software engineers can have the expectation to know how to deploy their code as well. There can be the software engineers, devops, and infrastructure people. Devops sits inbetween and owns the pipeline itself.
+
+Software engineer is a good role to see everything and to jump to other roles like infrastructure. Where you start isn't where you will go/end up at. Job transfer is more than possible.
+
+python for ai or data analysis, javascript for frontend/website, java springboot for enterprise software. Some industries don't deal with C++. Which language a company uses usually depends on the industry.
+
+Date : 12/??/25
