@@ -143,7 +143,7 @@ Refactoring benefits are maintainability, re-usability, performance, and cost re
 Technical debt is a term that buisness people can better understand for refactoring.
 
 
-Date : 11/31/25
+Date : 10/31/25
 
 Burndown charts, kanban boards, github issues, and iterations are used in regular buisnesses. What we are actually doing is what software engineers actually do.
 
@@ -155,4 +155,20 @@ Software engineer is a good role to see everything and to jump to other roles li
 
 python for ai or data analysis, javascript for frontend/website, java springboot for enterprise software. Some industries don't deal with C++. Which language a company uses usually depends on the industry.
 
-Date : 12/??/25
+
+Date : 11/03/25
+
+Deployment pipeline has multiple steps to get through and different places to push too: Dev environment, QA envrionment, Staging environment, and Production environment. Each stage feeds into the feedback loop back to the developers through integration tests, QA team/System Tests, User Acceptance testing, and customers.
+
+Also run tests on local machine before pushing into deployment pipeline.
+
+Push to dev environment often, push to QA less often (once a day to once a week). Get through one stage of the "gauntlet" before moving to the next step.
+
+In terms of servers, Dev environment is lightweight, QA is heavier, Staging is as identical to prodction as possible. (find hardware problems before goign to production)
+
+Updating production requires downtime to push new version. How do we deal with downtime?
+
+Very few people actually get access to production. Hot fixes aren't common anymore.
+
+
+Date : 11/??/25
