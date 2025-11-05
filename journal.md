@@ -171,4 +171,15 @@ Updating production requires downtime to push new version. How do we deal with d
 Very few people actually get access to production. Hot fixes aren't common anymore.
 
 
+Date : 11/05/25
+
+Blue Green Deployment uses a load balancer to host 2+ servers. When doing an update/managing configuration, I can switch traffic to only 1 server and update the other servers.
+
+If blue green deployment is used, how is the data managed? Are there 2 databases? If so, how are data conflicts resolved? Is there 1 database without redundancy?
+
+In blue green deployment, the staging environment becomes a part of production, since they swap back and forth.
+
+Devops is a mix of Operations, Automation, and Development.
+
+
 Date : 11/??/25
