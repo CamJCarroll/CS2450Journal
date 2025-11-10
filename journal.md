@@ -182,4 +182,16 @@ In blue green deployment, the staging environment becomes a part of production, 
 Devops is a mix of Operations, Automation, and Development.
 
 
+Date : 11/10/25
+
+3 tier architecture: Webserver/ui, Application, and Data. Each tier typically has its own server.
+
+Multiple databases are hard to sync together. Sharding is a strategy where each server holds part of the database. Slows down and requires a service for the other databases to recieve data.
+
+Scale some laters horizontally and others vertically.
+
+Amazon gets ~70% of their income from AWS.
+
+
 Date : 11/??/25
+
