@@ -193,5 +193,21 @@ Scale some laters horizontally and others vertically.
 Amazon gets ~70% of their income from AWS.
 
 
+Date : 11/17/25
+
+Software will likely still be ran 20 years from now after put into production, so make it secure now.
+
+Kobal and Java don't have a lot of programmers that know how to code in that language, but are still used commonly in older software. Programmers that know those languages make more since they are one of the few people who know how to fix stuff.
+
+Average cost of a data breach: 4.44M USD.
+97% of companies that had a breach lacked proper access control.
+49% of comapnies invest in more security after a breach.
+63% of companies refuse to pay ransomware attackers.
+
+Some ransomware "companies" will only charge a company an amount that is less than the cost for that comapany to increase their security to prevent the ransom.
+
+True costs of a security breach: Random demands, compromised data, incident response and recovery, lost buisness, breach notification, downtime, compliance and regulatory fines, reputation damage, legal costs, time to discovery, loss of buisness connections, and employee response.
+
+
 Date : 11/??/25
 
