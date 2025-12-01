@@ -209,5 +209,33 @@ Some ransomware "companies" will only charge a company an amount that is less th
 True costs of a security breach: Random demands, compromised data, incident response and recovery, lost buisness, breach notification, downtime, compliance and regulatory fines, reputation damage, legal costs, time to discovery, loss of buisness connections, and employee response.
 
 
-Date : 11/??/25
+Date : 12/01/25
+
+Final is 23 questions, mostly multiple choice some short answer. Highlight important concepts in the industry.
+
+1. What is software engineering? The methodologies, techniques, and tools which guide the process of creating reliable software.
+
+In software engineering, there are many stakeholders and many people working on the same thing.
+
+2. What is a software process? A set of activites designed to create order and consistency around software development.
+
+Agile-scrum, waterfall, prototype, and Rational Unified Process. Waterfall is rigid. Prototyping is giving users prototypes many times. 
+
+3. What is the value of a software process? Help project be more predictable, reduce stress on engineering team, and helping build the right thing. Does not guarentee project success, market success, or make things go faster.
+
+4. What is the trolley problem? A thought experiment in ethics where you have to make a decision with 2 tragic outcomes. Taking action for a lesser evil or standing by letting the greater of the two evils occur.
+
+Will you work on code that will result in an outcome you morally disagree with?
+
+5. Software Process Phases: Ideation, Requirements, Architecture/Design, Implementation, Validation, Deployment, and Maintenance. (put these in order for final)
+
+6. 2 Primary factors that drive project success: Someone who understands and communicates the requirements, and smart people who can build the solution according to the requirements. (smart people and good requirements)
+
+7. 
+Flow Diagram: Single flow and represent a single function.
+
+Componenet Diagram: Represents all the components that make up the software.
+
+
+
 
